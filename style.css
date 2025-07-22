@@ -1,0 +1,29 @@
+h1, h2, h3, h4, h5, h6{
+    color: rgb(0, 73, 128);
+    font-family: sans-serif;
+}
+
+p{
+    color: rgb(80, 92, 255);
+    font-family: fantasy;
+}
+
+ul {
+        list-style-image: url('images/pointer-icon.png');
+}
+
+ol{
+        list-style-type: upper-roman;
+}
+
+#menu-bar a{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    background-color: rgb(127, 210, 255);
+    padding: 5px;
+}
+
+#menu-bar a:hover{
+    background-color: rgb(4, 87, 87);
+    color: #ffffff;
+}
